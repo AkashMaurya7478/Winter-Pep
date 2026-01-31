@@ -1,0 +1,5 @@
+- [x] Update Vehicle constructor to accept HouseNo parameter
+- [x] Fix Vehicle::show() to display actual values
+- [x] Update Car constructor to accept HouseNo parameter
+- [x] Add HybridClass inheriting from Car and Youtuber with constructor and methods
+- [x] Update main() to create HybridClass instance and call methods
