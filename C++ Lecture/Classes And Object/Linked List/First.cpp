@@ -11,7 +11,7 @@ class Node{
 
     Node (int n){
         this ->data = n;
-        data = NULL;
+        next = NULL;
     }
 };
 
